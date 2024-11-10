@@ -1,4 +1,13 @@
-## Hi there 👋
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I made this GitHub to… do absolutely nothing. No serious projects, no groundbreaking code—just hanging out, exploring, and maybe leaving the star or comment. Who knows, maybe I’ll add something here one day. </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://giphy.com/gifs/coffee-morning-3nbxypT20Ulmo">
+</p>
+
+
+<p align="center">
+<a href= "https://www.instagram.com/valeriantora"><img src="https://icons8.com/icon/47776/instagram-old"/></a>
+</p>
 
 <!--
 **valeriantora/valeriantora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
